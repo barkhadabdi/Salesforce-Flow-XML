@@ -24,8 +24,8 @@
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
     <serverIsDown>SNA_BBOs5_sf_default_cdn_HCP_Portal_Bernafon1</serverIsDown>
-    <siteAdmin>brdb1@demant.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>salesforceiqintegration@00ds800000cde5smaf.ext</siteGuestRecordDefaultOwner>
+    <siteAdmin>brdb@demant.com.wdneworg.emeadev</siteAdmin>
+    <siteGuestRecordDefaultOwner>brdb@demant.com.wdneworg.emeadev</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
     <subdomain>oticon</subdomain>
     <urlPathPrefix>Bernafon</urlPathPrefix>
