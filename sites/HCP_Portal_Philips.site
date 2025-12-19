@@ -23,8 +23,8 @@
     <redirectToCustomDomain>false</redirectToCustomDomain>
     <referrerPolicyOriginWhenCrossOrigin>true</referrerPolicyOriginWhenCrossOrigin>
     <selfRegPage>CommunitiesSelfReg</selfRegPage>
-    <siteAdmin>brdb1@demant.com</siteAdmin>
-    <siteGuestRecordDefaultOwner>brdb1@demant.com</siteGuestRecordDefaultOwner>
+    <siteAdmin>brdb@demant.com.wdneworg.emeadev</siteAdmin>
+    <siteGuestRecordDefaultOwner>brdb@demant.com.wdneworg.emeadev</siteGuestRecordDefaultOwner>
     <siteType>ChatterNetwork</siteType>
     <subdomain>oticon</subdomain>
     <urlPathPrefix>Philips</urlPathPrefix>
